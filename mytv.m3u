@@ -73,6 +73,8 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
 http://125.210.152.18:9090/live/SDWSHD_H265.m3u8
 #EXTINF:-1 tvg-id="ShandongTV.cn@SD" tvg-logo="https://i.imgur.com/t3ICc4i.png" group-title="地方卫视",山东卫视 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
+#EXTINF:-1 tvg-id="YanbianSatelliteTV.cn@SD" tvg-logo="https://i.imgur.com/UKKsnhD.png" group-title="地方卫视",康巴卫视 (576p)
+http://223.110.245.139/PLTV/4/224/3221227008/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方卫视",新疆卫视 (576p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方卫视",新疆卫视 (576p)
@@ -199,6 +201,8 @@ https://xemzi.short.gy/1000015
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCNews.uk@AsiaPacific" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="BBC",BBC News Asia Pacific (576p)
 https://thinkkast.dpdns.org/thinkkast/bbcworld_news_sd/versiglia/index.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk@Europe" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="BBC",BBC News Europe (576p)
+http://46.32.176.50/bbcworld/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk@LatinAmerica" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="BBC",BBC News Latin America (720p)
 http://138.121.15.230:9002/BBC-NEWS/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk@NorthAmerica" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="BBC",BBC News North America (1080p)
