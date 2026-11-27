@@ -157,8 +157,8 @@ https://mumbai-edge.smartplaytv.in/BBCNews/index.m3u8
 http://45.153.96.44:8001
 #EXTINF:-1 tvg-id="BBCNewsPashto.uk@HD" tvg-logo="https://static.files.bbci.co.uk/ws/simorgh-assets/public/pashto/images/metadata/poster-1024x576.png" group-title="BBC",BBC News Pashto (720p)
 https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-id="ABCNewsLive1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="美国新闻财经",ABC News Live 1 (720p)
-https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="美国新闻财经",ABC News Live 1 (1080p)
+https://abcnews-livestreams.akamaized.net/out/v1/42a9b78d0a1f4b6599bbdfb1ae512bc4/abcn-live-01-cmaf-manifest/abcn-live-01-index.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive2.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="美国新闻财经",ABC News Live 2 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023561/abcnewshudson2/master.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive3.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="美国新闻财经",ABC News Live 3 (720p)
@@ -167,16 +167,16 @@ https://abcnews-streams.akamaized.net/hls/live/2023562/abcnewshudson3/master.m3u
 https://abcnews-streams.akamaized.net/hls/live/2023563/abcnewshudson4/master.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive5.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="美国新闻财经",ABC News Live 5 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023564/abcnewshudson5/master.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive6.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="美国新闻财经",ABC News Live 6 (720p)
-https://abcnews-streams.akamaized.net/hls/live/2023565/abcnewshudson6/master.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive7.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="美国新闻财经",ABC News Live 7 (720p)
-https://abcnews-streams.akamaized.net/hls/live/2023566/abcnewshudson7/master.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive8.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="美国新闻财经",ABC News Live 8 (720p)
-https://abcnews-streams.akamaized.net/hls/live/2023567/abcnewshudson8/master.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive9.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="美国新闻财经",ABC News Live 9 (720p)
-https://abcnews-streams.akamaized.net/hls/live/2023568/abcnewshudson9/master.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive10.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="美国新闻财经",ABC News Live 10 (720p)
-https://abcnews-streams.akamaized.net/hls/live/2023569/abcnewshudson10/master.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive6.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="美国新闻财经",ABC News Live 6 (1080p)
+https://abcnews-livestreams.akamaized.net/out/v1/9a9ee355c85a41139f57059aa69e2dbb/abcn-live-06-cmaf-manifest/abcn-live-06-index.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive7.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="美国新闻财经",ABC News Live 7 (1080p)
+https://abcnews-livestreams.akamaized.net/out/v1/154d2c2958f641ebaff682b130320ea5/abcn-live-07-cmaf-manifest/abcn-live-07-index.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive8.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="美国新闻财经",ABC News Live 8 (1080p)
+https://abcnews-livestreams.akamaized.net/out/v1/b95119c72ad7477ca49c4d9dfd1271d5/abcn-live-08-cmaf-manifest/abcn-live-08-index.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive9.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="美国新闻财经",ABC News Live 9 (1080p)
+https://abcnews-livestreams.akamaized.net/out/v1/4122fc2fd19e4064861b3c6a096286fb/abcn-live-09-cmaf-manifest/abcn-live-09-index.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive10.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="美国新闻财经",ABC News Live 10 (1080p)
+https://abcnews-livestreams.akamaized.net/out/v1/6a597119dbd5428a82dc11a2f514a1a2/abcn-live-10-cmaf-manifest/abcn-live-10-index.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@US" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="美国新闻财经",Bloomberg TV (1080p)
 http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
 #EXTINF:-1 tvg-id="CBSNews247.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png" group-title="美国新闻财经",CBS News 24/7 (720p)
